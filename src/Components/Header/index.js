@@ -6,9 +6,10 @@ function Header() {
 	return (
 		<div>
 			<Navbar bg="dark" variant="dark">
-				<Navbar.Brand href="#home">Home</Navbar.Brand>
+				<Navbar.Brand href="/">Home</Navbar.Brand>
 			</Navbar>
 		</div>
+		
 	);
 }
 
