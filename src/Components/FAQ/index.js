@@ -6,7 +6,7 @@ const data = {
 	title: "Here’s what you should know.",
 	rows: [
 		{
-			title: "Lorem",
+			title: "niviii",
 			content: "Lorem ipsum dolor sit amet, consectetur ",
 		},
 		{
